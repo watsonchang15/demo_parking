@@ -7,6 +7,6 @@ Fully tested with unit/integrated testing:
 
 Includes:
 * service object for:
-*   checking availability of parking spaces
-*   creating reservation
-*   creating a "hold"
+** checking availability of parking spaces
+** creating reservation
+** creating a "hold"
