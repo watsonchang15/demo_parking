@@ -7,3 +7,16 @@
 #   ["Action", "Comedy", "Drama", "Horror"].each do |genre_name|
 #     MovieGenre.find_or_create_by!(name: genre_name)
 #   end
+
+
+10.times do
+  ParkingSpace.create(can_park_car: true, can_park_motorcycle: false)
+end
+
+5.times do
+  ParkingSpace.create(can_park_car: true, can_park_motorcycle: true)
+end
+
+5.times do
+  ParkingSpace.create(can_park_car: false, can_park_motorcycle: true)
+end
