@@ -2,7 +2,7 @@
 
 This is a demo parking reservation app.
 
-![image](https://github.com/user-attachments/assets/f0d4dd52-38c8-4bd3-9fa0-40e884d7bf6b)
+![image](https://github.com/user-attachments/assets/eb8626ae-af28-4dfd-bc75-b0cc99d2e73c)
 
 Fully tested with testing:
 
